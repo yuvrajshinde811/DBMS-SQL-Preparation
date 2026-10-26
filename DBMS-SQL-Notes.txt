@@ -1,7 +1,25 @@
 Data
+Database
+Server
 Information
-DBMS
+DBMS (Database Management System)
 File System
-Data Redundancy & Inconsistancy
+Data Redundancy and Inconsistency
 Data Isolation
-Integrity
+Data Integrity
+Atomicity
+Concurrency
+Abstraction - hides certain details
+Database view
+Schema
+Architecture
+instance
+Data models
+Constrains
+Data Manipulation
+Interface
+Database Administration (DBA)
+Authorization
+Routine Maintenance
+DBMS Application Architecture
+Scalability
