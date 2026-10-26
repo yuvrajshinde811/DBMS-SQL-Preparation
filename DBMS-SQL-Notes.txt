@@ -1,0 +1,7 @@
+Data
+Information
+DBMS
+File System
+Data Redundancy & Inconsistancy
+Data Isolation
+Integrity
