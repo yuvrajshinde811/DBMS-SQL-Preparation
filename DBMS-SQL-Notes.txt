@@ -23,3 +23,11 @@ Authorization
 Routine Maintenance
 DBMS Application Architecture
 Scalability
+ER Model
+Entity
+Attributes
+Relationships
+degree of relationship
+unary, binary and ternary
+relationship constraints
+
